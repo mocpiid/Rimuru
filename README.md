@@ -95,8 +95,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD11
-cd CheemsBot-MD11
+git clone https://github.com/mocpiid/Rimuru
+cd Rimuru
 yarn install
 npm start
 ```
